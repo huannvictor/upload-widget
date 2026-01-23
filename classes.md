@@ -31,7 +31,7 @@
 **Status:**
 
 - [x] Concluída
-- [x] Pausada
+- [ ] Pausada
   Momento da Pausa: `1:42`
 
 ---
@@ -40,7 +40,7 @@
 
 **Status:**
 
-- [ ] Concluída
+- [x] Concluída
 - [ ] Pausada
   Momento da Pausa: `__:__`
 
@@ -51,8 +51,8 @@
 **Status:**
 
 - [ ] Concluída
-- [ ] Pausada
-  Momento da Pausa: `__:__`
+- [x] Pausada
+  Momento da Pausa: `06:21`
 
 ---
 
