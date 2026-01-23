@@ -1,13 +1,14 @@
 # Controle de Aulas
 
 ## Link das aulas
+
 [🔗 aulas](https://www.rocketseat.com.br/materiais-ricos/masterclasses/upload-widget-web?utm_source=meta&utm_medium=cpc&utm_campaign=bf-nov25-ftr-pos-360-frio-lead-pg-trial&utm_id=120236270096910753&utm_term=ftr-pos360-vsl&utm_content=adv03-trial-FTR-271125)
 
 ---
 
 ### Explicação do Projeto
 
-**Status:** 
+**Status:**
 
 - [x] Concluída
 - [ ] Pausada
@@ -17,7 +18,7 @@
 
 ### Setup do Back-end
 
-**Status:** 
+**Status:**
 
 - [x] Concluída
 - [ ] Pausada
@@ -27,7 +28,7 @@
 
 ### Criação do Projeto Vite
 
-**Status:** 
+**Status:**
 
 - [x] Concluída
 - [x] Pausada
@@ -37,7 +38,7 @@
 
 ### Estrutura do Widget
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -47,7 +48,7 @@
 
 ### Botão e widget colapsável
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -57,7 +58,7 @@
 
 ### Componentes: Dropzone & Title
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -67,7 +68,7 @@
 
 ### Componente: Lista de uploads
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -77,7 +78,7 @@
 
 ### Estados Visuais nos Componentes
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -87,7 +88,7 @@
 
 ### Animações do Widget
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -97,7 +98,7 @@
 
 ### Borda gradiente no botão
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -107,7 +108,7 @@
 
 ### Setup do store com Zustand
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -117,7 +118,7 @@
 
 ### Utilizando immer com Zustand
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -127,7 +128,7 @@
 
 ### Upload dos arquivos
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -137,7 +138,7 @@
 
 ### Cancelamento e retentativa
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -147,7 +148,7 @@
 
 ### Monitoramento do progresso
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -157,7 +158,7 @@
 
 ### Calculando uploads pendentes
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -167,7 +168,7 @@
 
 ### Compressão de imagens com canvas
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -177,7 +178,7 @@
 
 ### Ajustando progresso dos uploads
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -187,7 +188,7 @@
 
 ### Download da imagem comprimida
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -197,7 +198,7 @@
 
 ### Ajustes finais
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -207,7 +208,7 @@
 
 ### Encerramento
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
@@ -217,7 +218,7 @@
 
 ### Pós-graduação Tech Developer 360
 
-**Status:** 
+**Status:**
 
 - [ ] Concluída
 - [ ] Pausada
