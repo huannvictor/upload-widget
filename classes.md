@@ -29,7 +29,7 @@
 
 **Status:** 
 
-- [ ] Concluída
+- [x] Concluída
 - [x] Pausada
   Momento da Pausa: `1:42`
 
