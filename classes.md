@@ -50,8 +50,8 @@
 
 **Status:**
 
-- [ ] Concluída
-- [x] Pausada
+- [x] Concluída
+- [ ] Pausada
   Momento da Pausa: `06:21`
 
 ---
