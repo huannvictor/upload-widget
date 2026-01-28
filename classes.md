@@ -91,8 +91,8 @@
 **Status:**
 
 - [ ] Concluída
-- [ ] Pausada
-  Momento da Pausa: `__:__`
+- [x] Pausada
+  Momento da Pausa: `07:49`
 
 ---
 
