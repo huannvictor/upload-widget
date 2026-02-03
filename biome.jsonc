@@ -1,7 +1,21 @@
 {
   "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
-  "extends": [
-    "ultracite/biome/core",
-    "ultracite/biome/react"
-  ]
+  "extends": ["ultracite/biome/core", "ultracite/biome/react"],
+  "linter": {
+    "rules": {
+      "style": {
+        "useConsistentTypeDefinitions": {
+          "options": {
+            "style": "type"
+          },
+          "level": "error"
+        },
+        "noParameterAssign": {
+          "options": {
+            "propertyAssignment": "deny"
+          },
+          "level": "error"
+        }
+      }
+  }
 }
