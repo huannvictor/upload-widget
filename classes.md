@@ -90,8 +90,8 @@
 
 **Status:**
 
-- [ ] Concluída
-- [x] Pausada
+- [x] Concluída
+- [ ] Pausada
   Momento da Pausa: `07:49`
 
 ---
@@ -100,7 +100,7 @@
 
 **Status:**
 
-- [ ] Concluída
+- [x] Concluída
 - [ ] Pausada
   Momento da Pausa: `__:__`
 
