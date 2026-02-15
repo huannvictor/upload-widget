@@ -150,8 +150,8 @@
 
 **Status:**
 
-- [ ] Concluída
-- [x] Pausada
+- [x] Concluída
+- [ ] Pausada
   Momento da Pausa: `05:14`
 
 ---
@@ -160,7 +160,7 @@
 
 **Status:**
 
-- [ ] Concluída
+- [x] Concluída
 - [ ] Pausada
   Momento da Pausa: `__:__`
 
