@@ -190,7 +190,7 @@
 
 **Status:**
 
-- [ ] Concluída
+- [x] Concluída
 - [ ] Pausada
   Momento da Pausa: `__:__`
 
